@@ -63,7 +63,7 @@ _NOTE : The Container ID & NAMES fields will be generated at random. Hence, they
 2. Open incognito mode or private mode
 3. Open the URL ``localhost`` or `127.0.0.1`
 4. You will see a getting started guide by docker on this URL. Similar to the screenshot below
-   ![Screenshot](./webpage_screenshot.png)
+   ![Screenshot](getting_started_webpage_ss.png)
 5. Explore the Getting Started guide.
 6. Close the incognito/private browser window.
 
