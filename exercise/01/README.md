@@ -100,7 +100,7 @@ Now that the container has stopped. The getting started web page will not be ser
 1. Open any web browser
 2. Open incognito mode or private mode
 3. Open the URL ``localhost`` or `127.0.0.1`
-4. You will see an error implying that the URL is unreachable or refused connection (e.g. ERR_CONNECTION_REFUSED)
+4. You will see an error implying that the URL is unreachable or refused connection (e.g. `ERR_CONNECTION_REFUSED`)
 
 ----
 
