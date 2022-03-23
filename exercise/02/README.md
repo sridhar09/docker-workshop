@@ -11,7 +11,7 @@ To get started, let's follow the steps below
 
 ```dockerfile
 FROM python:latest
-COPY solution/index.html /
+COPY index.html /
 EXPOSE 7000
 CMD python -m http.server 7000
 ```
