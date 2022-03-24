@@ -10,7 +10,7 @@ To get started, let's follow the steps below
 2. Populate the following content in Dockerfile
 
 ```dockerfile
-FROM python:latest
+FROM python:3.8.13-slim-bullseye 
 COPY index.html /
 EXPOSE 7000
 CMD python -m http.server 7000
